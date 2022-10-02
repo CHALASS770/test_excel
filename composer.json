@@ -1,0 +1,16 @@
+{
+    "name": "test/excel",
+    "require": {
+        "phpoffice/phpspreadsheet": "1.25.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Test\\Excel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "me"
+        }
+    ]
+}
